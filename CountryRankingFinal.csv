@@ -1,4 +1,4 @@
-name,Birth,region,Energy,CarbonDioxide,Fertility,IndustrialGrowth,Laborforce,LifeExpectancy,Unemployment
+Name,Birth,Region,Energy,CarbonDioxide,Fertility,IndustrialGrowth,Laborforce,LifeExpectancy,Unemployment
 Niger,47.08,Africa,1540000.0,2374000.0,6.82,4.09,9411000,60.09,0.75
 Angola,41.8,Africa,11693000.0,19362000.0,5.83,-8.34,14462000,62.11,8.53
 Benin,41.15,Africa,8468000.0,6903000.0,5.43,9.12,5295000,62.21,1.57
